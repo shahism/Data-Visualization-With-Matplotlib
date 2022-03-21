@@ -1,6 +1,7 @@
 # Data Visualization
 >Data visualization is an interdisciplinary field that deals with the graphic representation of data.
 ***
+![Data Visualization](./58940.jpg)
 # Matplotlib
 - Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 ***
