@@ -11,6 +11,8 @@
 - Helps in Data analysis
 - Visualize Data for better Insights
 
+***
+
 ``` python
 import matplotlib.pyplot as plt
 
